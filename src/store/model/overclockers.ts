@@ -51,6 +51,30 @@ export const Overclockers: Store = {
 			series: 'ryzen5950',
 			url:
 				'https://www.overclockers.co.uk/amd-ryzen-9-5950x-sixteen-core-4.9ghz-socket-am4-processor-retail-cp-3c9-am.html'
+		},
+		{
+				brand: 'powercolor',
+				model:'amd reference',
+				series: 'rx6800xt',
+				url: 'https://www.overclockers.co.uk/powercolor-radeon-rx-6800-xt-mba-16gb-gddr6-pci-express-graphics-card-very-limited-stock-gx-19q-pc.html'
+		},
+		{
+				brand: 'sapphire',
+				model:'amd reference',
+				series: 'rx6800xt',
+				url: 'https://www.overclockers.co.uk/sapphire-radeon-rx-6800-xt-mba-16gb-gddr6-pci-express-graphics-card-very-limited-stock-gx-398-sp.html'
+		},
+		{
+				brand: 'sapphire',
+				model:'amd reference',
+				series: 'rx6800',
+				url: 'https://www.overclockers.co.uk/sapphire-radeon-rx-6800-mba-16gb-gddr6-pci-express-graphics-card-very-limited-stock-gx-399-sp.html'
+		},
+		{
+				brand: 'powercolor',
+				model:'amd reference',
+				series: 'rx6800',
+				url: 'https://www.overclockers.co.uk/powercolor-radeon-rx-6800-mba-16gb-gddr6-pci-express-graphics-card-very-limited-stock-gx-19r-pc.html'
 		}
 	],
 	linksBuilder: {
