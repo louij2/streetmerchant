@@ -64,6 +64,30 @@ export const Ebuyer: Store = {
 			series: 'ryzen5950',
 			url:
 				'https://www.ebuyer.com/1126985-amd-ryzen-9-5950x-am4-processor-100-100000059wof'
+		},
+		{
+				brand: 'msi',
+				model:'amd reference',
+				series: 'rx6800',
+				url: 'https://www.ebuyer.com/1129451-msi-radeon-rx-6800-16gb-graphics-card-rx-6800-16g'
+		},
+		{
+				brand: 'asus',
+				model:'amd reference',
+				series: 'rx6800',
+				url: 'https://www.ebuyer.com/1133959-asus-radeon-rx-6800-16gb-graphics-card-rx6800-16g'
+		},
+		{
+				brand: 'powercolor',
+				model:'amd reference',
+				series: 'rx6800',
+				url: 'https://www.ebuyer.com/1128774-powercolor-radeon-rx-6800-16gb-graphics-card-axrx-6800-16gbd6-m2dhc'
+		},
+		{
+				brand: 'xfx',
+				model:'amd reference',
+				series: 'rx6800',
+				url: 'https://www.ebuyer.com/1133851-xfx-radeon-rx-6800-16gb-graphics-card-rx-68lmatfd8'
 		}
 	],
 	linksBuilder: {
