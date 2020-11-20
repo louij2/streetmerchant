@@ -34,6 +34,18 @@ export const Game: Store = {
 			model: 'ps5 digital',
 			series: 'sonyps5de',
 			url: 'https://www.game.co.uk/en/playstation-5-digital-edition-2826341'
+		},
+		{
+			brand: 'microsoft',
+			model: 'xboxsx',
+			series: 'xbosx',
+			url: 'https://www.game.co.uk/xbox-series-x'
+		},
+		{
+			brand: 'microsoft',
+			model: 'xboxss',
+			series: 'xboxss',
+			url: 'https://www.game.co.uk/xbox-series-s'
 		}
 	],
 	name: 'game'
