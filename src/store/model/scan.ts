@@ -103,7 +103,7 @@ export const Scan: Store = {
 		},
 		{
 				brand: 'sapphire',
-				model: 'amd	reference',
+				model:'amd reference',
 				series: 'rx6800',
 				url: 'https://www.scan.co.uk/products/sapphire-radeon-rx-6800-xt-16gb-gddr6-ray-tracing-graphics-card-7nm-rdna2-4608-streams-2015mhz'
 		}
