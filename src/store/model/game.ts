@@ -37,13 +37,13 @@ export const Game: Store = {
 		},
 		{
 			brand: 'microsoft',
-			model: 'xboxsx',
+			model: 'xbox series x',
 			series: 'xboxsx',
 			url: 'https://www.game.co.uk/xbox-series-x'
 		},
 		{
 			brand: 'microsoft',
-			model: 'xboxss',
+			model: 'xbox series s',
 			series: 'xboxss',
 			url: 'https://www.game.co.uk/xbox-series-s'
 		}
