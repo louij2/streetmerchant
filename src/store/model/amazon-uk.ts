@@ -51,6 +51,22 @@ export const AmazonUk: Store = {
 			model: 'ps5 digital',
 			series: 'sonyps5de',
 			url: 'https://www.amazon.co.uk/dp/B08H97NYGP/'
+		},
+		{
+			brand: 'microsoft',
+			cartUrl:
+				'https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B08H93GKNJ&Quantity.1=1',
+			model: 'xboxsx',
+			series: 'xboxsx',
+			url: 'https://www.amazon.co.uk/Xbox-RRT-00007-Series-X/dp/B08H93GKNJ'
+		},
+		{
+			brand: 'microsoft',
+			cartUrl:
+				'https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B08GD9MNZB&Quantity.1=1',
+			model: 'xboxss',
+			series: 'xboxss',
+			url: 'https://www.amazon.co.uk/Xbox-Series-S/dp/B08GD9MNZB'
 		}
 	],
 	linksBuilder: {
