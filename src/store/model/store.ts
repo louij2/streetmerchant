@@ -86,6 +86,8 @@ export type Model =
 	| 'phoenix'
 	| 'ps5 console'
 	| 'ps5 digital'
+	| 'xboxsx'
+	| 'xboxss'
 	| 'sg oc'
 	| 'sg'
 	| 'strix lc'
