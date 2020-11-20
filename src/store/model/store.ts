@@ -25,6 +25,7 @@ export type Brand =
 	| 'nvidia'
 	| 'palit'
 	| 'pny'
+	| 'powercolor'
 	| 'sapphire'
 	| 'sony'
 	| 'xfx'
