@@ -70,6 +70,42 @@ export const Scan: Store = {
 			series: 'ryzen5950',
 			url:
 				'https://www.scan.co.uk/products/amd-ryzen-9-5950x-am4-zen-3-16-core-32-thread-34ghz-49ghz-turbo-72mb-cache-pcie-40-105w-cpu'
+		},
+		{
+				brand: 'amd',
+				model: 'powercolor',
+				series: 'rx6800xt',
+				url: 'https://www.scan.co.uk/products/powercolor-radeon-rx-6800-xt-16gb-gddr6-ray-tracing-graphics-card-7nm-rdna2-4608-streams'
+		},
+		{
+				brand: 'amd',
+				model: 'sapphire',
+				series: 'rx6800xt',
+				url: 'https://www.scan.co.uk/products/sapphire-radeon-rx-6800-xt-16gb-gddr6-ray-tracing-graphics-card-7nm-rdna2-4608-streams-2015mhz'
+		},
+		{
+				brand: 'amd',
+				model: 'sapphire',
+				series: 'rx6800',
+				url: 'https://www.scan.co.uk/products/sapphire-radeon-rx-6800-16gb-gddr6-ray-tracing-graphics-card-7nm-rdna2-3840-streams-1815mhz-gpu'
+		},
+		{
+				brand: 'amd',
+				model: 'powercolor',
+				series: 'rx6800',
+				url: 'https://www.scan.co.uk/products/powercolor-radeon-rx-6800-16gb-gddr6-ray-tracing-graphics-card-7nm-rdna2-3840-streams'
+		},
+		{
+				brand: 'amd',
+				model: 'asus',
+				series: 'rx6800',
+				url: 'https://www.scan.co.uk/products/asus-radeon-rx-6800-16gb-gddr6-ray-tracing-graphics-card-7nm-rdna2-3840-streams-1815mhz-gpu-2105mhz'
+		},
+		{
+				brand: 'amd',
+				model: 'sapphire',
+				series: 'rx6800',
+				url: 'https://www.scan.co.uk/products/sapphire-radeon-rx-6800-xt-16gb-gddr6-ray-tracing-graphics-card-7nm-rdna2-4608-streams-2015mhz'
 		}
 	],
 	linksBuilder: {
@@ -95,6 +131,14 @@ export const Scan: Store = {
 				series: '3090',
 				url:
 					'https://www.scan.co.uk/shop/computer-hardware/gpu-nvidia/nvidia-geforce-rtx-3090-graphics-cards'
+			},
+			{
+					series: 'rx6800',
+					url: 'https://www.scan.co.uk/shop/computer-hardware/gpu-amd/amd-radeon-rx-6800-pcie-40-graphics-cards'
+			},
+			{
+					series: 'rx6800xt',
+					url: 'https://www.scan.co.uk/shop/computer-hardware/gpu-amd/amd-radeon-rx-6800-xt-pcie-40-graphics-cards'
 			}
 		]
 	},
