@@ -54,16 +54,12 @@ export const AmazonUk: Store = {
 		},
 		{
 			brand: 'microsoft',
-			cartUrl:
-				'https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B08H93GKNJ&Quantity.1=1',
 			model: 'xbox series x',
 			series: 'xboxsx',
 			url: 'https://www.amazon.co.uk/Xbox-RRT-00007-Series-X/dp/B08H93GKNJ'
 		},
 		{
 			brand: 'microsoft',
-			cartUrl:
-				'https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B08GD9MNZB&Quantity.1=1',
 			model: 'xbox series s',
 			series: 'xboxss',
 			url: 'https://www.amazon.co.uk/Xbox-Series-S/dp/B08GD9MNZB'
