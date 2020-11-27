@@ -131,14 +131,6 @@ export const Scan: Store = {
 				series: '3090',
 				url:
 					'https://www.scan.co.uk/shop/computer-hardware/gpu-nvidia/nvidia-geforce-rtx-3090-graphics-cards'
-			},
-			{
-					series: 'rx6800',
-					url: 'https://www.scan.co.uk/shop/computer-hardware/gpu-amd/amd-radeon-rx-6800-pcie-40-graphics-cards'
-			},
-			{
-					series: 'rx6800xt',
-					url: 'https://www.scan.co.uk/shop/computer-hardware/gpu-amd/amd-radeon-rx-6800-xt-pcie-40-graphics-cards'
 			}
 		]
 	},
